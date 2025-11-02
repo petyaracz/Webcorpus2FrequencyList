@@ -1,6 +1,26 @@
-## Word frequency list from the Hungarian Webcorpus 2
+# Word frequency list from the Hungarian Webcorpus 2
 
 Original [here](https://hlt.bme.hu/en/resources/webcorpus2).
+
+## Dictionary
+
+| Column | Description |
+|--------|-------------|
+| form | word form, orthographic |
+| lemma | word lemma, orthographic |
+| xpostag | form pos tag |
+| freq | form raw frequency |
+| corpus_size | corpus size (total frequency) |
+| lemma_freq | lemma raw frequency |
+| lfpm10 | log10 form frequency per million |
+| llfpm10 | log10 lemma frequency per million |
+| form_length | nchar form |
+| form_syl_count | n vowels form |
+| lemma_length | nchar lemma |
+| lemma_syl_count | n vowels lemma |
+| hunspell | does the hunspell spelling dictionary contain the lemma? |
+
+## How to use
 
 ### R + duckdb + dplyr
 
