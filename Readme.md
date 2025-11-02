@@ -1,5 +1,25 @@
 # Word frequency list from the Hungarian Webcorpus 2
 
+[![DOI](https://zenodo.org/badge/1088274776.svg)](https://doi.org/10.5281/zenodo.17508385)
+
+Plz cite:
+
+```
+Péter, Rácz. (2025). Word frequency list from the Hungarian Webcorpus (Version 1.0) [Software/Data]. Zenodo. [https://doi.org/10.5281/zenodo.17508385](https://doi.org/10.5281/zenodo.17508385)
+```
+
+```bibtex
+@software{racz2025hungarian,
+  author       = {Rácz, Péter},
+  title        = {Word frequency list from the Hungarian Webcorpus},
+  year         = {2025},
+  publisher    = {Zenodo},
+  version      = {1.0},
+  doi          = {10.5281/zenodo.17508385},
+  url          = {https://doi.org/10.5281/zenodo.17508385}
+}
+```
+
 Original [here](https://hlt.bme.hu/en/resources/webcorpus2).
 
 ## Dictionary
