@@ -1,5 +1,7 @@
 # Word frequency list from the Hungarian Webcorpus 2
 
+Search using web interface / SQL [here](https://hungarian-word-frequencies-production.up.railway.app/frequencies/words).
+
 [![DOI](https://zenodo.org/badge/1088274776.svg)](https://doi.org/10.5281/zenodo.17508385)
 
 Plz cite:
