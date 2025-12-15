@@ -24,6 +24,8 @@ Péter, Rácz. (2025). Word frequency list from the Hungarian Webcorpus (Version
 
 Original [here](https://hlt.bme.hu/en/resources/webcorpus2).
 
+Member of the [Hungarian Natonal Corpus Portal](http://corpus.nytud.hu/nkp/).
+
 ## Dictionary
 
 | Column | Description |
