@@ -26,6 +26,15 @@ Original [here](https://hlt.bme.hu/en/resources/webcorpus2).
 
 Member of the [Hungarian National Corpus Portal](http://corpus.nytud.hu/nkp/).
 
+## LFS
+
+You need Git LFS to clone this repository. Alternatively, download the frequencies.parquet file through the web interface.
+
+```sh
+cd ~/Github/Webcorpus2FrequencyList
+git lfs pull
+```
+
 ## Dictionary
 
 | Column | Description |
