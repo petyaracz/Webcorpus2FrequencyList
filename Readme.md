@@ -55,6 +55,14 @@ git lfs pull
 
 ## How to use
 
+### R + arrow
+
+```r
+library(arrow)
+
+d = read_parquet('frequencies.parquet')
+```
+
 ### R + duckdb + dplyr
 
 ```r 
